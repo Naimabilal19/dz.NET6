@@ -1,0 +1,11 @@
+C:\Users\naima\source\repos\ConsoleApp6\test2\bin\Debug\test2.exe.config
+C:\Users\naima\source\repos\ConsoleApp6\test2\bin\Debug\test2.exe
+C:\Users\naima\source\repos\ConsoleApp6\test2\bin\Debug\test2.pdb
+C:\Users\naima\source\repos\ConsoleApp6\test2\bin\Debug\ConsoleApp6.exe
+C:\Users\naima\source\repos\ConsoleApp6\test2\bin\Debug\ConsoleApp6.pdb
+C:\Users\naima\source\repos\ConsoleApp6\test2\bin\Debug\ConsoleApp6.exe.config
+C:\Users\naima\source\repos\ConsoleApp6\test2\obj\Debug\test2.csproj.AssemblyReference.cache
+C:\Users\naima\source\repos\ConsoleApp6\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\naima\source\repos\ConsoleApp6\test2\obj\Debug\test2.csproj.CopyComplete
+C:\Users\naima\source\repos\ConsoleApp6\test2\obj\Debug\test2.exe
+C:\Users\naima\source\repos\ConsoleApp6\test2\obj\Debug\test2.pdb
